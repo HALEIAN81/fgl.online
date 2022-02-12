@@ -11,7 +11,7 @@
                   <div class="col-md-4">
                      <ul class="ft-nav social-nav my-3">
                         <li class="mx-1"><a href="javascript:void(0);" title="vk"><i class="fa fa-vk"></i></a></li>
-                        <li class="mx-1"><a href="javascript:void(0);" titlGWDWDASWDAS
+                        <li class="mx-1"><a href="javascript:void(0);" titlGWDWDASWDAS                                                                 
                      <span class="corp-design"></span>
                      </a>
                   </div>

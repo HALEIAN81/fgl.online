@@ -8,7 +8,7 @@
       <meta name="description" content="">
       <!---meta name="viewport" content="width=device-width, initial-scale=1"---->
       <link rel="manifest" href="site.webmanifest">
-      <link rel="icon" href="/favicon.png">
+      <link rel="icon" href="img/favicon.png">
       <link rel="apple-touch-icon" href="../icon.png">
 	  
       <!-- Place favicon.ico in the root directory -->
@@ -20,7 +20,9 @@
       <link rel="stylesheet" href="/css/main.css">
       <link rel="stylesheet" href="/css/style.css">
       <link rel="stylesheet" href="/dist/css/swiper.min.css">
-   </head>
+</head>
+
+
 <?php
 include('partials/header.php')
 ?>

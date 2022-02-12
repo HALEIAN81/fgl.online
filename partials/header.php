@@ -15,7 +15,7 @@
                      </div>
                      <div class="nav-wrap">
                         <ul id="nav" class="nav-wrap__list menu">
-                           <li class="current"><a href="/" title="Главная">HOME</a></li>
+                           <li class="current"><a href="/" title="">HOME</a></li>
                            <li><a href="/about.php" title="About">ABOUT</a></li>
                            <li><a href="/donate.php" title="Donate"><span class="red-fox">DONATE</span></a></li>
                            <li><a href="/contact.php" title="Contact">CONTACT</a></li>
@@ -42,8 +42,8 @@
                            </div>
                         </ul>
                         <div class="riglt-floats-xs">
-                           <a href="#" class="btn-login"><span class="ic-sx21"></span> USER LOGIN</a>
-                           <a href="/how-start.html" class="btn-startgames"><span class="ic-sx22"></span> REGISTER</a>
+                           <a href="./login.php" class=""><span class="ic-sx21"></span> USER LOGIN</a>
+                           <a href="./register.php" class=""><span class="ic-sx22"></span> REGISTER</a>
                         </div>
                      </div>
                   </div>
